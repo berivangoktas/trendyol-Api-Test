@@ -1,0 +1,88 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "sold": {
+      "type": "integer"
+    },
+    "Buckinghamshire": {
+      "type": "integer"
+    },
+    "string": {
+      "type": "integer"
+    },
+    "unavailable": {
+      "type": "integer"
+    },
+    "Franc": {
+      "type": "integer"
+    },
+    "Guinea": {
+      "type": "integer"
+    },
+    "USB": {
+      "type": "integer"
+    },
+    "Tasty": {
+      "type": "integer"
+    },
+    "pending": {
+      "type": "integer"
+    },
+    "available": {
+      "type": "integer"
+    },
+    "Metal": {
+      "type": "integer"
+    },
+    "impactful": {
+      "type": "integer"
+    },
+    "Granite": {
+      "type": "integer"
+    },
+    "Guiana": {
+      "type": "integer"
+    },
+    "framework": {
+      "type": "integer"
+    },
+    "Intelligent": {
+      "type": "integer"
+    },
+    "{{status}}": {
+      "type": "integer"
+    },
+    "Licensed": {
+      "type": "integer"
+    },
+    "Salad": {
+      "type": "integer"
+    },
+    "status": {
+      "type": "integer"
+    }
+  },
+  "required": [
+    "sold",
+    "Buckinghamshire",
+    "string",
+    "unavailable",
+    "Franc",
+    "Guinea",
+    "USB",
+    "Tasty",
+    "pending",
+    "available",
+    "Metal",
+    "impactful",
+    "Granite",
+    "Guiana",
+    "framework",
+    "Intelligent",
+    "{{status}}",
+    "Licensed",
+    "Salad",
+    "status"
+  ]
+}
